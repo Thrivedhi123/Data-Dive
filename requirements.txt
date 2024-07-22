@@ -1,5 +1,7 @@
 streamlit
-matplotlib
 pandas
 numpy
 seaborn
+matplotlib
+streamlit-pandas-profiling
+pycaret
